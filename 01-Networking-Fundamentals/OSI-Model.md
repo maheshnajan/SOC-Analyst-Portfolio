@@ -1,4 +1,4 @@
-# Part 9 - OSI Model
+#OSI Model
 
 The **OSI (Open Systems Interconnection) Model** is a conceptual framework used to understand how data travels across a network.
 
