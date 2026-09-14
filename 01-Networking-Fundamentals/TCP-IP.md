@@ -1,4 +1,4 @@
-# Part 10 - TCP/IP Model
+# TCP/IP Model
 
 In the real world, you'll frequently encounter the **TCP/IP Model** rather than the OSI model.
 
