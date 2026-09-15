@@ -5,7 +5,7 @@ The **OSI (Open Systems Interconnection) Model** is a conceptual framework used 
 ## OSI Layers (Top to Bottom)
 
 | Layer | Name |
-|---------|---------|
+|---------|--------|
 | 7 | Application |
 | 6 | Presentation |
 | 5 | Session |
